@@ -1,0 +1,90 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Publicatie
+  category: Categorie
+  tag: Label
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: Startpagina
+  categories: Categorieën
+  tags: Labels
+  archives: Archieven
+  about: Over
+
+# the text displayed in the search bar & search results
+search:
+  hint: Zoeken
+  cancel: Annuleren
+  no_results: Oeps! Geen publicaties gevonden.
+
+panel:
+  lastmod: Onlangs bijgewerkt
+  trending_tags: Populaire labels
+  toc: Inhoud
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Deze publicatie is gelicentieerd door de auteur onder de licentie :LICENSE_NAME
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Sommige rechten voorbehouden.
+  verbose: >-
+    Tenzij anders vermeld, vallen alle publicaties op deze website onder de :LICENSE_NAME licentie van de auteur.
+
+meta: Powered by :PLATFORM with :THEME theme
+
+not_found:
+  statement: Sorry, we hebben deze link verkeerd geplaats of deze link verwijst niet (meer) naar een bestaande bron.
+
+notification:
+  update_found: Er is een nieuwe versie beschikbaar.
+  update: Nieuwe versie
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Van
+  posted: Gepubliceerd
+  updated: Bijgewerkt
+  words: woorden
+  pageview_measure: bekeken
+  read_time:
+    unit: minuten
+    prompt: leestijd
+  relate_posts: Verder lezen
+  share: Delen
+  button:
+    next: Volgende publicatie
+    previous: Vorige publicatie
+    copy_code:
+      succeed: Gekopieerd!
+    share_link:
+      title: Link kopiëren
+      succeed: Link succesvol gekopieerd!
+
+# Date time format.
+# See: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%d.%m.%Y"
+    dayjs: "DD.MM.YYYY"
+  # archives: //hier kan je een unieke indeling geven voor het archief alleen ging deze overlappen want te lang
+  #  strftime: "%d.%m.%Y"
+  #  dayjs: "DD.MM.YYYY"
+
+# categories page
+categories:
+  category_measure:
+    singular: categorie
+    plural: categorieën
+  post_measure:
+    singular: publicatie
+    plural: publicaties
