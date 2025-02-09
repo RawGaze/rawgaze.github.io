@@ -1,0 +1,74 @@
+---
+---
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.w-50 {
+  width: 50% !important; /* Of een andere breedte die je wilt */
+}
+
+/* Uitlijning opties */
+.align-left {
+  text-align: left;
+  margin-right: auto;
+}
+
+.align-right {
+  text-align: right;
+  margin-left: auto;
+}
+
+.align-center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-wrapper {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden; /* Belangrijk voor responsiviteit */
+  display: block; /* Zorgt ervoor dat text-align werkt */
+}
+
+.image-wrapper-landscape {
+  width: 100% !important;
+  max-width: 100%;
+  overflow: hidden; /* Belangrijk voor responsiviteit */
+  display: block; /* Zorgt ervoor dat text-align werkt */
+}
+
+
+/* ...rest van de CSS... */
+
+.image-wrapper a {
+  display: block; /* Of inline-block; zoals bij picture element stond als je de afbeelding niet wilt centreren */
+  border: none !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+.image-wrapper img {
+  width: 100%; /* Houdt zich aan de .w-50 breedte */
+  height: auto; /* Behoudt aspect-ratio */
+  display: block; /* Voorkomt extra witruimte */
+  object-fit: cover; /* Of contain; afhankelijk van je voorkeur. Was weg bij picture element */
+}
+
+.image-wrapper::after,
+.image-wrapper::before {
+  content: none !important;
+}
+
+
+
+
+
+
+
+
