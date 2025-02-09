@@ -8,6 +8,20 @@
 
 /* append your custom style below */
 
+/* eerst opties site breed*/
+
+/* Maak de titeltekst groter/kleiner uit _config.yml*/
+.site-title {
+  font-size: 0.6rem !important; /* Pas aan naar wens (default is 1.5) */
+}
+
+/* Maak de ondertiteltekst (subtitle) ook groter/kleiner _config.yml*/
+.site-subtitle {
+  font-size: 0.8rem !important;
+}
+
+/* hierna opties voor in markdownposts voor gebruik images*/
+
 .w-50 {
   width: 50% !important; /* Of een andere breedte die je wilt */
 }
@@ -64,11 +78,3 @@
 .image-wrapper::before {
   content: none !important;
 }
-
-
-
-
-
-
-
-
