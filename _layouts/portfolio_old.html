@@ -1,0 +1,75 @@
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
+
+<style>
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 2rem 0;
+  }
+
+  .image-wrapper {
+    position: relative;
+    width: 100%;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: var(--card-shadow);
+  }
+
+  .image-wrapper a {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .image-wrapper img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.3s ease;
+  }
+
+  .image-wrapper:hover img {
+    transform: scale(1.03);
+  }
+
+  .image-caption {
+    padding: 12px;
+    font-size: 0.9rem;
+    color: var(--text-color);
+  }
+</style>
+
+<div class="portfolio-grid">
+  <div class="image-wrapper">
+    <a href="{{ 'assets/img/portfolio/large/foto1.webp' | relative_url }}" class="glightbox" data-gallery="portfolio">
+      <img src="{{ 'assets/img/portfolio/small/foto1.webp' | relative_url }}"
+           srcset="{{ 'assets/img/portfolio/small/foto1.webp' | relative_url }} 800w,
+                   {{ 'assets/img/portfolio/medium/foto1.webp' | relative_url }} 1600w,
+                   {{ 'assets/img/portfolio/large/foto1.webp' | relative_url }} 2400w"
+           sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
+           alt="Beschrijving foto 1"
+           loading="lazy">
+      <div class="image-caption">Foto titel 1</div>
+    </a>
+  </div>
+  
+  <!-- Meer foto's op dezelfde manier -->
+</div>
+
+<script>
+  // Initialiseer GLightbox als je die gebruikt
+  if (typeof GLightbox !== 'undefined') {
+    const lightbox = GLightbox({
+      touchNavigation: true,
+      loop: true,
+      autoplayVideos: true
+    });
+  }
+</script>
