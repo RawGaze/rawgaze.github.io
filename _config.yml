@@ -17,9 +17,9 @@ timezone: Europe/Amsterdam
 title: Where Confidence Meets Intimate Beauty # the main title
 
 tagline: > # it will display as the subtitle (the key: > makes sure to break the string with line breaks in yml, the <br> is needed as html linebreak)
-      ✦ Intimately Authentic ✦ <br>
-      &nbsp; &nbsp; — Fearlessly Raw — <br>
-      &nbsp; &nbsp; &nbsp; ⋯ Undeniably You ⋯
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✦ Intimately Authentic ✦ <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; — Fearlessly Raw — <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; ⋯ Undeniably You ⋯
 
 description: >- # used by seo meta and the atom feed
   Bold, intimate, and fearless. RawGaze Photography specializes in boudoir and portraits that capture raw emotion and untamed beauty.
@@ -91,7 +91,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -101,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar/Rawgaze_avatar_black_noCamera.gif
+avatar: /assets/img/avatar/Rawgaze_black_1200x375_Open_big_fadeIn_animated.gif
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
