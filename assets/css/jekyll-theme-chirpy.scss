@@ -8,10 +8,34 @@
 
 /* append your custom style below */
 
-/* eerst opties site breed*/
+/* Eerst opties site breed*/
 
-/* Maak de titeltekst groter/kleiner uit _config.yml*/
+
+/* -maak de avatar rechthoekig ipv vierkant */
+
+#sidebar #avatar {
+  width: 208px !important;/* is voor lengte en hoogte instellen vd mal */
+  height: 68px !important;
+  border-radius: 8px !important; /* voor ronder maken rechthoek */
+  border: 2px solid rgb(0, 0, 0) !important; /* kleur aanpassing binnenrand*/
+}
+
+
+#sidebar #avatar.rounded-circle {
+  border-radius: 8px !important;/* voor ronder maken hoeken rechthoek (rechthoek ipv rondje=border-radius: 0 !important) */
+}
+
+#sidebar #avatar img {
+  width: 100% !important; /* is voor vullen vd mal met het plaatje */
+  height: 100% !important;
+  object-fit: contain !important;
+  border-radius: 6px !important; /* voor ronder maken rechthoek */
+}
+
+/* Maak de titeltekst (afkomstig van _config.yml) uit sidebar groter/kleiner */
 .site-title {
+  text-align: center !important;/* centreert titeltekst tov avatar/sidebar */
+  width: 100% !important; /* centreert titel tov avatar/sidebar */
   font-size: 0.6rem !important; /* Pas aan naar wens (default is 1.5) */
 }
 
@@ -22,8 +46,37 @@
 
 /* hierna opties voor in markdownposts voor gebruik images*/
 
-.w-50 {
-  width: 50% !important; /* Of een andere breedte die je wilt */
+/* Portrait foto's */
+.image-wrapper {
+  width: 50% !important;
+  max-width: 100%;
+  overflow: hidden;
+  display: block;
+}
+
+/* Landscape foto's */
+.image-wrapper.wide {
+  width: 100% !important;
+  max-width: 100%;
+  overflow: hidden;
+  display: block;
+}
+
+/* Gemeenschappelijke eigenschappen voor de link en afbeelding */
+.image-wrapper a,
+.image-wrapper.wide a {
+  display: block; /* Of inline-block; zoals bij picture element stond als je de afbeelding niet wilt centreren */
+  border: none !important;
+  text-decoration: none !important;
+  outline: none !important;
+}
+
+.image-wrapper img,
+.image-wrapper.wide img {
+  width: 100%;
+  height: auto; /* Behoudt aspect-ratio */
+  display: block; /* Voorkomt extra witruimte */
+  object-fit: cover; /* Of contain; afhankelijk van je voorkeur*/
 }
 
 /* Uitlijning opties */
@@ -41,37 +94,6 @@
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-}
-
-.image-wrapper {
-  width: 100%;
-  max-width: 100%;
-  overflow: hidden; /* Belangrijk voor responsiviteit */
-  display: block; /* Zorgt ervoor dat text-align werkt */
-}
-
-.image-wrapper-landscape {
-  width: 100% !important;
-  max-width: 100%;
-  overflow: hidden; /* Belangrijk voor responsiviteit */
-  display: block; /* Zorgt ervoor dat text-align werkt */
-}
-
-
-/* ...rest van de CSS... */
-
-.image-wrapper a {
-  display: block; /* Of inline-block; zoals bij picture element stond als je de afbeelding niet wilt centreren */
-  border: none !important;
-  text-decoration: none !important;
-  outline: none !important;
-}
-
-.image-wrapper img {
-  width: 100%; /* Houdt zich aan de .w-50 breedte */
-  height: auto; /* Behoudt aspect-ratio */
-  display: block; /* Voorkomt extra witruimte */
-  object-fit: cover; /* Of contain; afhankelijk van je voorkeur. Was weg bij picture element */
 }
 
 .image-wrapper::after,

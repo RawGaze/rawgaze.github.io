@@ -5,8 +5,8 @@ description: >-
   
 author: peter
 date: 2025-02-09 13:28:00 +0100
-categories: [Portrait, Red Lingerie] #[TOP_CATEGORIE bv Dieren, SUB_CATEGORIE bv Insecten]
-tags: [Alice] # TAG names should always be lowercase bv lieveheersbeestje
+categories: [Portrait, Boudoir] #[TOP_CATEGORIE bv Dieren, SUB_CATEGORIE bv Insecten] dit kunnen er Maximaal 2 zijn
+tags: [Alice, Red Lingerie] # TAG names should always be lowercase bv lieveheersbeestje. Dit kan onbeperkt
 pin: true
 # media_subpath: '/posts/20180809' [media_subpath: /img/path/ When a post contains many images, it will be a time-consuming task to repeatedly define the path of the media resources. To solve this, we can define this path in the YAML block of the post. And then, the image source of Markdown can write the file name directly:![The flower](flower.png). The output will be:<img src="/img/path/flower.png" alt="The flower" />
 image: 
@@ -30,7 +30,7 @@ Even though this was just a testshoot to get to know my camera, i was blown away
 
 
 <div class="main-content">
-  <div class="image-wrapper align-right w-50" style="--width: 852; --height: 1280;">
+  <div class="image-wrapper align-right" style="--width: 852; --height: 1280;">
     <a href="{{ 'assets/img/blog/photography/boudoir/Alice/Large/boudoirphoto-Alice-red-lingerie-sexy1.webp' | absolute_url }}" class="glightbox" data-gallery="gallery1">
       <img src="{{ 'assets/img/blog/photography/boudoir/Alice/Small/boudoirphoto-Alice-red-lingerie-sexy1.webp' | absolute_url }}"
            srcset="
@@ -45,7 +45,7 @@ Even though this was just a testshoot to get to know my camera, i was blown away
 </div>
 
 <div class="main-content">
-  <div class="image-wrapper align-left w-50" style="--width: 852; --height: 1280;">
+  <div class="image-wrapper align-left" style="--width: 852; --height: 1280;">
     <a href="{{ 'assets/img/blog/photography/boudoir/Alice/Large/boudoirphoto-Alice-red-lingerie-sexy2.webp' | absolute_url }}" class="glightbox" data-gallery="gallery1">
       <img src="{{ 'assets/img/blog/photography/boudoir/Alice/Small/boudoirphoto-Alice-red-lingerie-sexy2.webp' | absolute_url }}"
            srcset="
@@ -60,7 +60,7 @@ Even though this was just a testshoot to get to know my camera, i was blown away
 </div>
 
 <div class="main-content">
-  <div class="image-wrapper-landscape align-center w-50" style="--width: 1280; --height: 852;">
+  <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
     <a href="{{ 'assets/img/blog/photography/boudoir/Alice/Large/boudoirphoto-Alice-red-lingerie-sexy4.webp' | absolute_url }}" class="glightbox" data-gallery="gallery1">
       <img src="{{ 'assets/img/blog/photography/boudoir/Alice/Small/boudoirphoto-Alice-red-lingerie-sexy4.webp' | absolute_url }}"
            srcset="
