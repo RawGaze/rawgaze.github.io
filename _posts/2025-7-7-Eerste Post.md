@@ -74,3 +74,17 @@ Even though this was just a testshoot to get to know my camera, i was blown away
   </div>
 </div>
 
+<div class="main-content">
+  <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
+    <a href="{{ 'assets/img/blog/photography/boudoir/Alice/Large/boudoirphoto-Alice-red-lingerie-sexy3.webp' | absolute_url }}" class="glightbox" data-gallery="gallery1">
+      <img src="{{ 'assets/img/blog/photography/boudoir/Alice/Small/boudoirphoto-Alice-red-lingerie-sexy3.webp' | absolute_url }}"
+           srcset="
+             {{ 'assets/img/blog/photography/boudoir/Alice/Small/boudoirphoto-Alice-red-lingerie-sexy3.webp' | absolute_url }} 1280w,
+             {{ 'assets/img/blog/photography/boudoir/Alice/Medium/boudoirphoto-Alice-red-lingerie-sexy3.webp' | absolute_url }} 2000w,
+             {{ 'assets/img/blog/photography/boudoir/Alice/Large/boudoirphoto-Alice-red-lingerie-sexy3.webp' | absolute_url }} 3840w"
+           sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
+           alt="Sexy Alice with red lingery close-up sparkling"
+           loading="lazy">
+    </a>
+  </div>
+</div>
