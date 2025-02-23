@@ -26,8 +26,6 @@ The Nikon D4s performed flawlessly, delivering stunning image quality and allowi
 
 Even though this was just a testshoot to get to know my camera, i was blown away by the raw emotion and beauty I had captured. This first boudoir shoot was more than just a photography session; it was an experience that touched my heart and solidified my passion for this art form. I can't wait to see what other stories I can tell you through my lens.
 
- 
-
 
 <div class="main-content">
   <div class="image-wrapper align-right" style="--width: 852; --height: 1280;">
@@ -42,6 +40,7 @@ Even though this was just a testshoot to get to know my camera, i was blown away
            loading="lazy">
     </a>
   </div>
+  <!--place tekst here when using float left/float right-->
 </div>
 
 <div class="main-content">
