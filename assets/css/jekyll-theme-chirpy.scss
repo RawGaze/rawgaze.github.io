@@ -10,7 +10,7 @@
 
 /* Eerst opties site breed*/
 
-/* -maak de avatar rechthoekig ipv vierkant */
+/* 1. maak de avatar rechthoekig ipv vierkant */
 
 #sidebar #avatar {
   width: 208px !important;/* is voor lengte en hoogte instellen vd mal */
@@ -18,7 +18,6 @@
   border-radius: 8px !important; /* voor ronder maken rechthoek */
   border: 2px solid rgb(0, 0, 0) !important; /* kleur aanpassing binnenrand*/
 }
-
 
 #sidebar #avatar.rounded-circle {
   border-radius: 8px !important;/* voor ronder maken hoeken rechthoek (rechthoek ipv rondje=border-radius: 0 !important) */
@@ -31,54 +30,50 @@
   border-radius: 6px !important; /* voor ronder maken rechthoek */
 }
 
-/* Maak de titeltekst (afkomstig van _config.yml) uit sidebar groter/kleiner */
+/* 2. Maak de titeltekst (afkomstig van _config.yml) uit sidebar groter/kleiner */
 .site-title {
   text-align: center !important;/* centreert titeltekst tov avatar/sidebar */
   width: 100% !important; /* centreert titel tov avatar/sidebar */
   font-size: 0.6rem !important; /* Pas aan naar wens (default is 1.5) */
 }
 
-/* Maak de ondertiteltekst (subtitle) ook groter/kleiner _config.yml*/
+/* 2b. Maak de ondertiteltekst (subtitle) ook groter/kleiner _config.yml*/
 .site-subtitle {
   font-size: 0.8rem !important;
 }
 
-/* hierna opties voor in markdownposts voor gebruik images*/
+/* Hierna opties voor in markdownposts voor gebruik images*/
 
-/* Portrait foto's */
+/* 2a. Portrait foto's */
 .image-wrapper {
-  width: 50% !important;
-  max-width: 100%;
-  overflow: hidden;
-  display: block;
+  max-width: 100%;           /* Zorgt dat het niet breder wordt dan de parent */
+  overflow: hidden;          /* Verbergt alles wat buiten de container valt */
+  display: block;            /* Maakt het een blokelement */
+  width: 50% !important;     /* Maakt de container half zo breed */
 }
 
-/* Landscape foto's */
+/* 2b. Landscape foto's */
 .image-wrapper.wide {
-  width: 100% !important;
-  max-width: 100%;
-  overflow: hidden;
-  display: block;
+  width: 100% !important;  /* Overschrijft breedte: Maakt de container volledig breed. Rest eigenschappen wordt geerfd uit image-wrapper  */
 }
 
-/* Gemeenschappelijke eigenschappen voor de link en afbeelding */
-.image-wrapper a,
-.image-wrapper.wide a {
-  display: block; /* Of inline-block; zoals bij picture element stond als je de afbeelding niet wilt centreren */
-  border: none !important;
-  text-decoration: none !important;
-  outline: none !important;
-}
+/* 2c. Gemeenschappelijke eigenschappen portrait+ landscape afbeelding */
 
-.image-wrapper img,
-.image-wrapper.wide img {
-  width: 100%;
-  height: auto; /* Behoudt aspect-ratio */
-  display: block; /* Voorkomt extra witruimte */
-  object-fit: cover; /* Of contain; afhankelijk van je voorkeur*/
-}
+.image-wrapper a {/*stelt de stijl in voor alle <a> tags (links) die zich binnen een element met de class image-wrapper bevinden. */
+  display: block; /* Of inline-block; Maakt de link een blokelement, zodat het de volledige breedte van zijn container gebruikt */
+  border: none !important; /*Verwijdert eventuele randen rond de link*/
+  text-decoration: none !important;/*Verwijdert de standaard onderstreping van de link*/
+  outline: none !important;/*Verwijdert de outline die verschijnt als de link focus krijgt (bijvoorbeeld bij gebruik van tab-navigatie)*/
+}/*Deze stijlen zorgen ervoor dat de link zich gedraagt als een "schone" container voor je afbeelding, zonder visuele elementen die normaal bij links horen zoals onderstreping of randen.*/
 
-/* Uitlijning opties */
+.image-wrapper img {/* stelt de stijl in voor alle <img> tags die zich binnen een element met de class image-wrapper bevinden.*/
+  width: 100%;/*Zorgt ervoor dat de afbeelding de volledige breedte van zijn container (de image-wrapper) gebruikt*/
+  height: auto; /* Behoudt de aspect ratio (verhouding) van de afbeelding door de hoogte automatisch aan te passen */
+  display: block; /* Maakt de afbeelding een blokelement en voorkomt ongewenste extra witruimte onder de afbeelding */
+  object-fit: cover; /* Of contain; Zorgt ervoor dat de afbeelding de beschikbare ruimte vult terwijl de aspect ratio behouden blijft. Als de verhoudingen niet precies passen, wordt de afbeelding bijgesneden maar niet vervormd*/
+}/*Deze stijlen zorgen er samen voor dat je afbeeldingen er netjes uitzien en goed schalen binnen hun container, zonder vervorming.*?
+
+/* 3. Uitlijnings classes */
 .align-left {
   text-align: left;
   margin-right: auto;
@@ -91,10 +86,50 @@
 
 .align-center {
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 
+/* 4. Float classes voor als je tekst naast afbeelding wilt (tekst moet in de html tussen de laatste twee </div>!*/
+.image-wrapper.float-left {
+  width: 50% !important;/*Maakt de container half zo breed als de beschikbare ruimte*/
+  display: inline-block !important;/*Maakt het mogelijk dat tekst er omheen kan vloeien*/
+  margin-bottom: 1rem !important;/*Voegt ruimte onder de afbeelding toe*/
+  float: left !important;/*Laat de afbeelding naar links of rechts 'drijven', waardoor tekst er omheen kan vloeien*/
+  margin-right: 2rem !important;/*Voegt ruimte toe tussen de afbeelding en de tekst*/
+}
+
+.image-wrapper.float-right {
+  width: 50% !important;
+  display: inline-block !important;
+  margin-bottom: 1rem !important;
+  float: right !important;
+  margin-left: 2rem !important;
+}
+
+
+/* 4a. Clearfix voor de container voor float om het "float problem" op te lossen. Als je elementen float (links of rechts), worden ze uit de normale documentflow gehaald, wat kan betekenen dat de container waarin ze zich bevinden geen hoogte meer heeft om ze te bevatten.*/
+.main-content::after {/*::after: Creëert een pseudo-element na de inhoud van main-content*/
+  content: "";/*Maakt een leeg element*/
+  display: table;/*Zorgt voor goede ondersteuning in verschillende browsers*/
+  clear: both;/*Forceert dat dit element onder alle float elementen komt*/
+}/*Het resultaat is dat de container (main-content) zich correct uitrekt om alle float elementen te bevatten, en volgende elementen netjes eronder blijven staan in plaats van dat ze omhoog schuiven.*/
+
+
+
+/* 4b. Responsive aanpassingen voor float Dit is een "media query" die zorgt voor een responsief ontwerp - het past de weergave aan voor kleinere schermen zoals tablets en mobiele telefoons. */
+@media (max-width: 768px) {/*pas deze regels toe wanneer het scherm 768 pixels of kleiner is*/
+  .image-wrapper.float-left,
+  .image-wrapper.float-right {
+    float: none !important;/*Schakelt het float effect uit*/
+    display: block !important;/*Maakt het een normaal blok element*/
+    width: 100% !important;/*Maakt de afbeelding volledig breed*/
+    margin: 1rem auto !important;/*Centreert de afbeelding met wat ruimte erboven en eronder*/
+  }/*Dit zorgt ervoor dat je content goed leesbaar blijft op mobiele apparaten, waar een zwevende afbeelding naast tekst te krap zou worden dus die komt eronder*/
+}
+
+
+/*5. Deze code verwijdert automatisch gegenereerde pseudo-elementen (::before en ::after) die mogelijk door het Chirpy theme worden toegevoegd aan de image-wrapper. Het voorkomt ongewenste lijnen of extra ruimte.*/
+/* Cleanup van ongewenste extra lijnen of ruimte*/
 .image-wrapper::after,
 .image-wrapper::before {
   content: none !important;

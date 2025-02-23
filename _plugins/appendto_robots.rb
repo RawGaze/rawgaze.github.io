@@ -1,3 +1,4 @@
+## dit script stopt beide sitemaps (voor SEO) in robots.txt
 Jekyll::Hooks.register :site, :post_write do |site|
     robots_path = File.join(site.dest, "robots.txt")
   

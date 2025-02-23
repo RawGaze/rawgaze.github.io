@@ -1,3 +1,5 @@
+## dit script maakt de sitemap voor images aan, doorzoekt hiervoor alle posts.
+
 require 'nokogiri'
 
 module Jekyll
