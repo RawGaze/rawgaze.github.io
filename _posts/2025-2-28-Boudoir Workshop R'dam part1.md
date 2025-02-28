@@ -15,7 +15,8 @@ image:
 
 ## Confidence, Creativity and Red Lingerie: A Boudoir Shoot to Remember
 
-I recently had the chance to attend a portfolio shoot organized by the amazing boudoir photographer, Pascale Dekker. And let me tell you, it was such an incredible experience! The day was filled with so much energy, learning, and inspiration. Pascale isn’t just an amazing photographer—she’s a fantastic teacher too. I walked away feeling like I’d gained so many new skills and insights. In fact, I was so impressed, I grabbed her book right there on the spot to dive even deeper into her wisdom.
+I recently had the chance to attend a portfolio shoot organized by the amazing boudoir photographer, [Pascale Dekker](https://www.instagram.com/the_female_gaze_by_pascale//). And let me tell you, it was such an incredible experience! The day was filled with so much energy, learning, and inspiration. Pascale isn’t just an amazing photographer—she’s a fantastic teacher too. I walked away feeling like I’d gained so many new skills and insights. In fact, I was so impressed, I grabbed her book right there on the spot to dive even deeper into her wisdom.
+
 
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
@@ -174,4 +175,4 @@ Speaking of the shoot, we spent most of the time in the studio, and I gotta say,
   </div>
 </div>
 
-Looking back, I left that shoot feeling so inspired. It's amazing what a great environment, awesome people, and a little guidance can do for your growth as a model. It reminded me how important it is to not only stay open to learning but to also embrace your unique energy and vibe in front of the lens. Honestly, I couldn’t have asked for a better experience to boost my creative journey!
+Looking back, I left that shoot feeling so inspired. It's amazing what a great environment, awesome people, and a little guidance can do for your growth as a photographer. It reminded me how important it is to not only stay open to learning but to also embrace your unique energy and vibe behind the lens. Honestly, I couldn’t have asked for a better experience to boost my creative journey!
