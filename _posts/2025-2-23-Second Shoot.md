@@ -11,7 +11,7 @@ pin: true
 # media_subpath: '/posts/20180809' [media_subpath: /img/path/ When a post contains many images, it will be a time-consuming task to repeatedly define the path of the media resources. To solve this, we can define this path in the YAML block of the post. And then, the image source of Markdown can write the file name directly:![The flower](flower.png). The output will be:<img src="/img/path/flower.png" alt="The flower" />
 image: 
   path: /assets/img/blog/photography/boudoir/Alice/Preview/boudoirphoto-Alice-black-lingerie-sexy-preview.webp
-  lqip: data:image/webp;base64,7Bk8R/w7slwha5AA/mwW9rdd7yjZx9k2ZYfBHUNCaoeaq7NIMrCYa5qrg9gKgzH1N50Q/OdXZ8eUy+7oWTjYpGAA 
+  lqip: data:image/webp;base64,ABKQvLIA8VYqAAD1j6gFGw3XmNdvwSypUV/i8m7Loa2t4G+JBFR31rgsuZllMaGQOx+Y/B6Xolcv84djNsCxE+Ur6ccpFWAAAAA= 
   alt: Preview picture of sexy Alice with black lingery laying on a bed.
 --- 
 
