@@ -29,7 +29,7 @@ I recently had the chance to attend a portfolio shoot organized by the amazing b
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_1.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_1.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her back on the bed, gazing at the camera. She's wearing a red lace lingerie set"
            loading="lazy">
     </a>
   </div>
@@ -46,7 +46,7 @@ I recently had the chance to attend a portfolio shoot organized by the amazing b
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_2.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_2.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her belly on the bed, looking at the camera. She's wearing a red lace lingerie set"
            loading="lazy">
     </a>
   </div>
@@ -65,7 +65,7 @@ While I was there, I also met [Marie-Jose](https://www.instagram.com/mysticangel
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_3.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_3.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her side on the bed, facing the camera while an other camera is visible. She's wearing a red lace lingerie set."
            loading="lazy">
     </a>
   </div>
@@ -82,7 +82,7 @@ While I was there, I also met [Marie-Jose](https://www.instagram.com/mysticangel
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_4.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_4.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her side on the bed, smiling at the camera. She's wearing a red lace lingerie set."
            loading="lazy">
     </a>
   </div>
@@ -99,7 +99,7 @@ While I was there, I also met [Marie-Jose](https://www.instagram.com/mysticangel
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_5.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_5.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, posing in a red lace lingerie set, standing against a neutral background."
            loading="lazy">
     </a>
   </div>
@@ -118,7 +118,7 @@ Speaking of the shoot, we spent most of the time in the studio, and I gotta say,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_6.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_6.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on the bed, lookin away from the camera, with her hand resting in her hair. She's wearing a red lace lingerie set"
            loading="lazy">
     </a>
   </div>
@@ -135,7 +135,7 @@ Speaking of the shoot, we spent most of the time in the studio, and I gotta say,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_7.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_7.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her stomach on the bed, propped up on her elbows, laughing. She's wearing a red lace lingerie set."
            loading="lazy">
     </a>
   </div>
@@ -152,7 +152,7 @@ Speaking of the shoot, we spent most of the time in the studio, and I gotta say,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_8.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_8.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her stomach on the bed with her legs in the air, gazing and smiling at the camera. She's wearing a red lace lingerie set."
            loading="lazy">
     </a>
   </div>
@@ -169,7 +169,7 @@ Speaking of the shoot, we spent most of the time in the studio, and I gotta say,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Medium/Marie-Jose_Boudoirphoto_red_lingerie_sexy_9.webp' | absolute_url }} 2000w,
            {{ 'assets/img/blog/photography/boudoir/Marie-Jose/Large/Marie-Jose_Boudoirphoto_red_lingerie_sexy_9.webp' | absolute_url }} 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
-           alt="Give short description here"
+           alt="Marie-Jose, lying on her stomach on the bed, gazing at the camera looking secudctive. She's wearing a red lace lingerie set."
            loading="lazy">
     </a>
   </div>
