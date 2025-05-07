@@ -2,7 +2,7 @@
 title: Portfolio Shoot Boudoir
 description: >-
  I recently joined a portfolio shoot with boudoir photographer Pascale Dekker in a cozy studio. Most of the session took place on the bed, with Marie-Jose—her brown hair and bold red lingerie—bringing effortless confidence to each shot. The day was full of learning and inspiration, leaving me more motivated than ever to grow in my own photography journey. 
-author: peter
+author: Peter
 date: 2025-02-28 19:58:40 +0100
 categories: [Portrait, Boudoir]
 tags: [Marie-Jose, Red Lingerie]
