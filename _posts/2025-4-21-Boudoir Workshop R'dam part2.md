@@ -9,7 +9,7 @@ categories: [Portrait, Boudoir]
 tags: [Lidwine, Black Lingerie]
 pin: true
 image: 
-  path: /assets/img/blog/photography/boudoir/Lidwine/Preview/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp
+  path: /rawgaze/photos/boudoir/Lidwine/Preview/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp
   lqip: data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAABQAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJZQAASrm3Q+7OAAD+y9anPjL52Mqq+6+vQeNIGC+W7cZBpxJyPsbiQAAAAA==
   alt: Preview picture of sexy Lidwine with black lingerie sitting.
 ---  
@@ -21,13 +21,13 @@ I recently had the privilege of attending a captivating portfolio shoot led by t
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, sitting on the floor, looking out the window with confidence. She's wearing a black lace lingerie set in a studio setting."
            loading="lazy">
@@ -40,13 +40,13 @@ I recently had the privilege of attending a captivating portfolio shoot led by t
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, kneeling on the couch, gazing at the camera. She's wearing a black lace lingerie set in a cozy studio."
            loading="lazy">
@@ -59,13 +59,13 @@ I recently had the privilege of attending a captivating portfolio shoot led by t
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, standing with her back to the camera, looking at the camera through the mirror. She's wearing a black lace lingerie set in a studio with a mirror."
            loading="lazy">
@@ -78,13 +78,13 @@ I recently had the privilege of attending a captivating portfolio shoot led by t
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper align-center" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_4.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, posing near a window with blinds, facing the camera. She's wearing a black lace lingerie set in a softly lit studio."
            loading="lazy">
@@ -97,13 +97,13 @@ I recently had the privilege of attending a captivating portfolio shoot led by t
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper align-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_5.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, posing near a window with blinds, looking at herself through a window not visible to the camera. She's wearing a black lace lingerie set in a softly lit studio."
            loading="lazy">
@@ -116,13 +116,13 @@ Lidwine was stunning in a black lace lingerie set that complemented the moody, e
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_6.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, posing near a window, looking at the camera with intensity. She's wearing a black lace lingerie set in a cozy studio."
            loading="lazy">
@@ -135,13 +135,13 @@ Lidwine was stunning in a black lace lingerie set that complemented the moody, e
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_7.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, sitting on a couch with her hands on her chest, facing the camera. She's wearing a black lace lingerie set against a dark background."
            loading="lazy">
@@ -154,13 +154,13 @@ Lidwine was stunning in a black lace lingerie set that complemented the moody, e
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper align-center" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_8.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, sitting on a couch with one hand on her knee. She's wearing a black lace lingerie set in a studio setting."
            loading="lazy">
@@ -173,13 +173,13 @@ Lidwine was stunning in a black lace lingerie set that complemented the moody, e
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper align-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp"
            srcset="
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Small/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Medium/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/boudoir/Lidwine/Large/Lidwine_Boudoirphoto_black_lingerie_sexy_9.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Lidwine, sitting on a couch while holding on to her legs, gazing at the camera. She's wearing a black lace lingerie set in a window lit studio."
            loading="lazy">

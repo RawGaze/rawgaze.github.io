@@ -9,7 +9,7 @@ categories: [Event, Burlesque]
 tags: [burlesqueandbigband, Alice Wonders, Maggie Leroux, Juliette Sway, Andrej Kapor, Dori LeGray]
 pin: true
 image: 
-  path: /assets/img/blog/photography/burlesque/burlesqueandbigband/Preview/burlesqueandbigband_Alice_Wonders_Preview.webp
+  path: /rawgaze/photos/burlesque/burlesqueandbigband/Preview/burlesqueandbigband_Alice_Wonders_Preview.webp
   lqip: data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoUAAsAPzmEuVOvKKWisAgB4CcJagCdACP+y0m2o+cAAP7l1p8Pacw4k36O1Ylh4VOwYKGLVsexZgaRImUQllAA
   alt: Picture of stunning performer Alice Wonders seducing the crowd with an apple
 ---  
@@ -21,13 +21,13 @@ Hey, you fabulous soul! ✨ Welcome to Part 2 of my Burlesque & Big Band journey
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_Wonders_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_Wonders_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Alice Wonders seducing the crowd with an apple"
            loading="lazy">
@@ -38,13 +38,13 @@ Meet our walkaround performer Alice Wonders. Embodying the biblical figure Lilit
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_Wonders_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_Wonders_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Alice Wonders seducing the crowd by taking of her dress"
            loading="lazy">
@@ -55,13 +55,13 @@ Meet our walkaround performer Alice Wonders. Embodying the biblical figure Lilit
 <!-- This section with 'option wide' is for landscape pics only ALICE face-->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_Wonders_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_Wonders_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_Wonders_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_Wonders_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Alice Wonders close-up of the side of her face"
            loading="lazy">
@@ -73,13 +73,13 @@ One glance at Alice’s mischievous smile and we sure stand no chance.
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_and_Juliette.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_and_Juliette.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_and_Juliette.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_and_Juliette.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_and_Juliette.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_and_Juliette.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_and_Juliette.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Alice_and_Juliette.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Alice_and_Juliette.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Alice_and_Juliette.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Alice Wonders seducing Juliette Sway with an apple"
            loading="lazy">
@@ -92,13 +92,13 @@ Come over to the dark side! We’ve got apples… and Alice
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Maggie_Leroux_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Maggie_Leroux_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Maggie Leroux interacting with the crowd holding Alice her basket"
            loading="lazy">
@@ -111,13 +111,13 @@ Maggie Leroux, the dazzling stage kitten, is pure magic in motion! While tidying
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_14.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_14.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_14.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_14.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_14.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_14.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_14.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_14.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_14.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_14.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway seducing the crowd while holding the pole"
            loading="lazy">
@@ -129,13 +129,13 @@ Juliette Sway is back for round two, and she’s turning up the heat with a sizz
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_15.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_15.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_15.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_15.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_15.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_15.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_15.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_15.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_15.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_15.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway twirls on a pole, sultry gaze, stunning costume, owning the stage"
            loading="lazy">
@@ -148,13 +148,13 @@ Juliette Sway is back for round two, and she’s turning up the heat with a sizz
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_16.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_16.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_16.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_16.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_16.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_16.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_16.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_16.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_16.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_16.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway does a split on a pole, one leg up, body horizontal, in a stunning costume."
            loading="lazy">
@@ -167,13 +167,13 @@ Juliette Sway is back for round two, and she’s turning up the heat with a sizz
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_17.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_17.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_17.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_17.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_17.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_17.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_17.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_17.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_17.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_17.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway hangs upside down on a pole, legs gripping, head near ground, back arched, with sparkly pasties"
            loading="lazy">
@@ -187,13 +187,13 @@ Her fluid movements were pure poetry—bold, seductive, and packed with that sig
 <!-- This section with 'option wide' is for landscape pics only Andrej-->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_spectators_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_spectators_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_spectators_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_spectators_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_spectators_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_spectators_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_spectators_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_spectators_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_spectators_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_spectators_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Andrej Kapor looking down at the stage in beautifull hotel Arena"
            loading="lazy">
@@ -205,13 +205,13 @@ Crowd buzzing with excitement, eyes glued to the sizzling action on stage. Among
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Andrej_Kapor_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Andrej_Kapor_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Andrej Kapor on stage, holding a mic, reciting poetry with sensual charm."
            loading="lazy">
@@ -223,13 +223,13 @@ Andrej is an artist, writer, and creative producer working across diverse fields
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Andrej_Kapor_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Andrej_Kapor_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Andrej Kapor looks at the camera, exuding poetic intensity and dark humor"
            loading="lazy">
@@ -241,13 +241,13 @@ He played the role of sensual poet this night.
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Andrej_Kapor_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Andrej_Kapor_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Andrej_Kapor_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Andrej_Kapor_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Andrej Kapor leans on a pillar, gazing at the burlesque stage with a sly grin."
            loading="lazy">
@@ -262,13 +262,13 @@ Dori LeGray is flipping the script—literally—with her mind-bending reverse s
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Dori LeGray in black and white, fully clothed with sunglasses, exuding cool confidence."
            loading="lazy">
@@ -281,13 +281,13 @@ My camera loved her cheeky winks and lightning-fast feet, but editing her photos
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Dori LeGray in a red dress, smiling sweetly as another photographer snaps her photo."
            loading="lazy">
@@ -299,13 +299,13 @@ In her second performance this tap-dancing queen brought her signature mix of hu
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Dori LeGray in red lingerie, red dress off, with a fierce, raw expression on her face."
            loading="lazy">
@@ -318,13 +318,13 @@ In her second performance this tap-dancing queen brought her signature mix of hu
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_4.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_4.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_4.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_4.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_4.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_4.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_4.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_4.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_4.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_4.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Dori LeGray in red lingerie, swirling her red dress above her head with playful flair."
            loading="lazy">
@@ -337,13 +337,13 @@ In her second performance this tap-dancing queen brought her signature mix of hu
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_5.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_5.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_5.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_5.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_5.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_5.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_5.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_5.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_5.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_5.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Dori LeGray in red lingerie, tap dancing, patting her butt with a cheeky backward glance."
            loading="lazy">
@@ -356,13 +356,13 @@ In her second performance this tap-dancing queen brought her signature mix of hu
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper align-center" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_6.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_6.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_6.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_6.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_6.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_6.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_6.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Dori_LeGray_6.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Dori_LeGray_6.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Dori_LeGray_6.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Dori LeGray in red lingerie, hands on hips, smiling bravely with bold confidence."
            loading="lazy">

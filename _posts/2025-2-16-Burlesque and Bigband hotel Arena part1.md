@@ -9,7 +9,7 @@ categories: [Event, Burlesque]
 tags: [burlesqueandbigband, the Sultry Showgirls, Venuss Nightingale, Calie Tee, Maggie Leroux, Juliette Sway]
 pin: true
 image: 
-  path: /assets/img/blog/photography/burlesque/burlesqueandbigband/Preview/burlesqueandbigband_Juliette_Sway_Preview.webp
+  path: /rawgaze/photos/burlesque/burlesqueandbigband/Preview/burlesqueandbigband_Juliette_Sway_Preview.webp
   lqip: data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABwAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJaTyFABL1IpGQogAA/uv5TDIj1vW3sszossSHZhgEDbk0h9ikd9s8dHEZPmsA/Zost2eyER5im40AAAA=
   alt: Picture of stunning performer Juliette Sway on a strippole with the Bigband in the background.
 ---  
@@ -22,13 +22,13 @@ Picture this: the sultry allure of burlesque meets the unstoppable energy of an 
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_JumpTown_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_JumpTown_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_JumpTown_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_JumpTown_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_JumpTown_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_JumpTown_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_JumpTown_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_JumpTown_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_JumpTown_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_JumpTown_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="JumpTown in action"
            loading="lazy">
@@ -48,13 +48,13 @@ If you love bold performances, live music that makes your hips sway, and an atmo
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_The_Sultry_Showgirls_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_The_Sultry_Showgirls_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Sultry showgirls teasing the crowd"
            loading="lazy">
@@ -67,13 +67,13 @@ The Sultry Showgirls, a group of young burlesque artists, brought fresh energy t
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_The_Sultry_Showgirls_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_The_Sultry_Showgirls_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Sultry showgirls showing it off"
            loading="lazy">
@@ -85,13 +85,13 @@ Their group act was a burst of talent and teamwork, and I had a blast capturing 
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_The_Sultry_Showgirls_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_The_Sultry_Showgirls_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_The_Sultry_Showgirls_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_The_Sultry_Showgirls_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Sultry showgirls Bold and Beautifull"
            loading="lazy">
@@ -106,13 +106,13 @@ These rising stars are proof that the future of burlesque is bright!
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Venuss_Nightingale_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Venuss_Nightingale_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Venuss Nightingale spreading her wings"
            loading="lazy">
@@ -124,13 +124,13 @@ Talk about a showstopper! Miss Venuss Nightingale is a “tailor, sinner and FEM
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Venuss_Nightingale_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Venuss_Nightingale_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Venuss Nightingale daring and bold"
            loading="lazy">
@@ -142,13 +142,13 @@ Her act was sensual, powerful and dripping with mystery. My lens caught every in
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Venuss_Nightingale_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Venuss_Nightingale_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Venuss_Nightingale_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Venuss_Nightingale_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Venuss Nightingale looking into the lens"
            loading="lazy">
@@ -163,13 +163,13 @@ Her act was sensual, powerful and dripping with mystery. My lens caught every in
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Calie_Tee_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Calie_Tee_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Calie Tee crocodile crawling on the floor"
            loading="lazy">
@@ -181,13 +181,13 @@ Calie Tee is a total powerhouse. This French artist started as a classical music
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Calie_Tee_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Calie_Tee_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Calie Tee shining as a crocodile "
            loading="lazy">
@@ -199,13 +199,13 @@ Her iconic crocodile act had us laughing and gasping, blending retro charm with 
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Calie_Tee_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Calie_Tee_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Calie_Tee_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Calie_Tee_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Calie Tee crocodile act"
            loading="lazy">
@@ -219,13 +219,13 @@ My camera adored her vibrant energy and quirky style. Plus, she debuted a brand-
 <!-- This section with 'option wide' is for landscape pics only MAGGIE-->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Maggie_Leroux_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Maggie_Leroux_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Maggie_Leroux_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Maggie_Leroux_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Maggie cating out"
            loading="lazy">
@@ -240,13 +240,13 @@ Maggie Leroux, our world-class stage kitten, is the unsung hero of the night. Sh
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_1.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_1.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_1.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_1.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_1.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_1.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_1.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_1.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_1.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_1.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway serving glamour"
            loading="lazy">
@@ -258,13 +258,13 @@ Juliette Sway is back, and she’s serving glamour with a capital G!
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_2.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_2.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_2.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_2.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_2.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_2.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_2.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_2.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_2.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_2.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway slowly unbuttons her blouse"
            loading="lazy">
@@ -277,13 +277,13 @@ Juliette Sway is back, and she’s serving glamour with a capital G!
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_3.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_3.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_3.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_3.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_3.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_3.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_3.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_3.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_3.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_3.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway taking of her blouse showing her lingery"
            loading="lazy">
@@ -295,13 +295,13 @@ Juliette Sway is back, and she’s serving glamour with a capital G!
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_4.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_4.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_4.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_4.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_4.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_4.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_4.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_4.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_4.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_4.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway dropping her blouse elegantly"
            loading="lazy">
@@ -313,13 +313,13 @@ She’s got this way of making every gesture feel like a secret just for you.
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_5.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_5.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_5.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_5.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_5.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_5.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_5.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_5.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_5.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_5.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway taking of her stocking in an elegant manner"
            loading="lazy">
@@ -331,13 +331,13 @@ Pure seduction...
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_6.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_6.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_6.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_6.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_6.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_6.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_6.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_6.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_6.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_6.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway acting surprised champagn dripping on the floor"
            loading="lazy">
@@ -350,13 +350,13 @@ Pure seduction...
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_7.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_7.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_7.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_7.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_7.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_7.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_7.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_7.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_7.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_7.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway taking off her bra"
            loading="lazy">
@@ -369,13 +369,13 @@ Pure seduction...
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_8.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_8.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_8.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_8.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_8.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_8.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_8.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_8.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_8.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_8.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway spraying champagn"
            loading="lazy">
@@ -387,13 +387,13 @@ Picture this: Juliette, radiating elegance, sprays a cascade of champagne into t
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_9.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_9.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_9.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_9.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_9.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_9.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_9.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_9.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_9.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_9.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway poors champagn on her body"
            loading="lazy">
@@ -404,13 +404,13 @@ Then, with a sultry kneel, she pours the rest over her nearly bare body, every m
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_10.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_10.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_10.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_10.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_10.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_10.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_10.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_10.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_10.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_10.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway rubbing champagn over her body"
            loading="lazy">
@@ -422,13 +422,13 @@ Then, with a sultry kneel, she pours the rest over her nearly bare body, every m
 <!-- This section with 'option wide' is for landscape pics only -->
 <div class="main-content">
   <div class="image-wrapper wide align-center" style="--width: 1280; --height: 852;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_11.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_11.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_11.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_11.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_11.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_11.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_11.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_11.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_11.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_11.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway spraying champagn all over"
            loading="lazy">
@@ -440,13 +440,13 @@ Her lavish props and silky-smooth moves made the stage her playground, and every
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-left" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_12.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_12.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_12.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_12.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_12.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_12.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_12.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_12.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_12.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_12.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway in the spotlight"
            loading="lazy">
@@ -459,13 +459,13 @@ Her lavish props and silky-smooth moves made the stage her playground, and every
 <!-- This section without option wide is for portrait pics only -->
 <div class="main-content"> <!-- options: align-left/right/center float-left/right -->
   <div class="image-wrapper float-right" style="--width: 852; --height: 1280;">
-    <a href="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_13.webp' | absolute_url }}"
+    <a href="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_13.webp"
        class="glightbox" data-gallery="gallery1">
-      <img src="{{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_13.webp' | absolute_url }}"
+      <img src="{{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_13.webp"
            srcset="
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_13.webp' | absolute_url }} 1280w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_13.webp' | absolute_url }} 2000w,
-           {{ 'assets/img/blog/photography/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_13.webp' | absolute_url }} 3840w"
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Small/burlesqueandbigband_Juliette_Sway_13.webp 1280w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Medium/burlesqueandbigband_Juliette_Sway_13.webp 2000w,
+           {{ site.cdn }}rawgaze/photos/burlesque/burlesqueandbigband/Large/burlesqueandbigband_Juliette_Sway_13.webp 3840w"
            sizes="(max-width: 800px) 100vw, (max-width: 1600px) 50vw, 33vw"
            alt="Juliette Sway taking a cheeky sip from the champagne bottle"
            loading="lazy">
